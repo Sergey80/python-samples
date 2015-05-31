@@ -46,3 +46,10 @@ del d2["Bob"]           # Bob item is removed from the dictionary
 print(d2)
 
 
+# pretty printing
+from pprint import pprint as pp
+pp(d2)
+
+print(type(d2))  # <class 'dict'>
+
+

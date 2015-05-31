@@ -1,6 +1,8 @@
 s = set([1, 2, 3, 3])  # list to set
 print(s)  # {1, 2, 3}
 
+print(type(s))  # <class 'set'>
+
 s.add(4)  # {1, 2, 3, 4}
 print(s)
 
