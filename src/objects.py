@@ -1,5 +1,3 @@
-__author__ = 'sstarodu'
-
 x = 500
 x = 600  # object "500" will be released
 

@@ -1,5 +1,3 @@
-__author__ = 'Sergey Starodubtsev'
-
 print("hello")
 
 l = len([1, 2, 3])
