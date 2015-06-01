@@ -1,5 +1,3 @@
-__author__ = 'sstarodu'
-
 # list
 aa = [1, 2, 3]
 empty = []

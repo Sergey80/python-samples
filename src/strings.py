@@ -1,5 +1,3 @@
-__author__ = 'sstarodu'
-
 # str
 print(str(1) + "a")
 
